@@ -1,4 +1,1 @@
-
-console.log("app");
-
-@@include('./modules/cart.js')
+console.log('app');
